@@ -1,0 +1,9 @@
+# build artifacts
+ddcx
+hdr
+.DS_Store
+
+# Xcode
+MonitorApp/MonitorApp.xcodeproj/xcuserdata/
+MonitorApp/MonitorApp.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
